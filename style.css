@@ -1,0 +1,40 @@
+body {
+  poppins-regular font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+  font-size: 55px;
+  background-color: antiquewhite;
+}
+
+.red-color {
+  color: darkgreen
+}
+
+h3 {
+  background-color: blue;
+  width: 40%;
+  height: 40px;
+  font-size: 28px;
+  color: blanchedalmond
+}
+
+section {
+  font-size: large;
+}
+
+.half2 img {
+  padding-left: 5%;
+
+}
+
+.link-button {
+  text-decoration: none;
+  background-color: rgb(224, 96, 6);
+  font-size: large;
+  color: rgb(254, 254, 255);
+  padding: 10px 40px;
+  border-radius: 20%;
+}
